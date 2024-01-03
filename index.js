@@ -70,6 +70,7 @@ new TypeIt("#id-head", {
   .type("l")
   .move(1)
   .delete(1)
+  .type("a")
   .pause(500)
   .go();
 
